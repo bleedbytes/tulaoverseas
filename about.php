@@ -14,15 +14,15 @@ include "navbar.php";
 
 
     <!--Card-->
-    <div class="card testimonial-card">
+    <div class=" green card testimonial-card">
 
       <!--Bacground color-->
       <div class="card-up">
       </div>
 
       <!--Avatar-->
-      <div class="avatar mx-auto white">
-        <i class="fa fa-globe fa-5x rounded-circle" aria-hidden="true"></i>
+      <div class="avatar mx-auto green">
+        <i class="fa fa-globe fa-5x rounded-circle " aria-hidden="true"></i>
       </div>
 
       <div class="card-body">
