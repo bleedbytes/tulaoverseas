@@ -11,5 +11,6 @@
     <!-- Material Design Bootstrap -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.5.0/css/mdb.min.css" rel="stylesheet">
     <link rel="stylesheet" href="bleedbytes.css">
+    <link rel="stylesheet" href="contact.css">
 </head>
 <body container-fluid>
